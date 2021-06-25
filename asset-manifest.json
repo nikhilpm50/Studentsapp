@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/studentsapp/static/css/main.339e6242.chunk.css",
+    "main.js": "/studentsapp/static/js/main.20a45024.chunk.js",
+    "main.js.map": "/studentsapp/static/js/main.20a45024.chunk.js.map",
+    "runtime-main.js": "/studentsapp/static/js/runtime-main.3746e299.js",
+    "runtime-main.js.map": "/studentsapp/static/js/runtime-main.3746e299.js.map",
+    "static/js/2.1a79611b.chunk.js": "/studentsapp/static/js/2.1a79611b.chunk.js",
+    "static/js/2.1a79611b.chunk.js.map": "/studentsapp/static/js/2.1a79611b.chunk.js.map",
+    "index.html": "/studentsapp/index.html",
+    "static/css/main.339e6242.chunk.css.map": "/studentsapp/static/css/main.339e6242.chunk.css.map",
+    "static/js/2.1a79611b.chunk.js.LICENSE.txt": "/studentsapp/static/js/2.1a79611b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3746e299.js",
+    "static/js/2.1a79611b.chunk.js",
+    "static/css/main.339e6242.chunk.css",
+    "static/js/main.20a45024.chunk.js"
+  ]
+}
